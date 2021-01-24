@@ -3,7 +3,11 @@
 ## The81Project Install Guide
 ## Installing Mac OS X 10.4.11 Tiger on a 2007-2008 iMac, Macbook/Air/Pro, Mac mini, Mac Pro
 
-https://imgur.com/a/T3YWVZE
+Documentation: ## https://github.com/speediegamer/the81project/blob/main/Documentation.pdf               
+
+Written Guide: ## https://github.com/speediegamer/the81project/blob/main/Installation%20Guide.pdf
+
+## https://imgur.com/a/T3YWVZE
 
 ## Pt. 1 - Introduction
 
@@ -24,15 +28,15 @@ The list of things needed is not that long.
 
 ## Pt. 3 - Getting Started
 Alright, so let’s go ahead and download the dmg. To do this, visit-
-https://github.com/speediegamer/the81project/releases/tag/2.0-beta
+## https://github.com/speediegamer/the81project/releases/tag/2.0-beta
 Once the web page has loaded, you will see a changelog! 
 
-https://imgur.com/a/GYXPRSl
+## https://imgur.com/a/GYXPRSl
 
 Now scroll down and click the mega.nz link. Now press the big download button. Let it download. It will take a while since the file is 3.05GB in size. Once it’s finished, it’s time to download Etcher.
 To do this, visit https://www.balena.io/etcher/, and then press Download for whatever your platform is.
 
-https://imgur.com/a/I8BLuNz
+## https://imgur.com/a/I8BLuNz
 
 Once it’s done downloading, install etcher according to your platform.
 macOS: Mount the dmg and drag the .app to the Applications folder
@@ -44,7 +48,7 @@ After installing, you can proceed to the next step!
 
 Launch Etcher, you will be greeted to a screen like this.
 
-https://imgur.com/a/XVRyIpF
+## https://imgur.com/a/XVRyIpF
 
 Click “Flash from file” and then select the .dmg file we downloaded earlier. Now plug in your 16GB or larger USB flash drive. 
 Make sure you have no data you care about on it because it will all be erased. Click “Select target” then click on your USB drive. Then press Select. Then press the big Flash! button and watch the magic happen!
@@ -52,12 +56,12 @@ This process could take several minutes so please be patient! Also plug the USB 
 
 ## Pt. 5 - Installing The81Project.
 
-https://imgur.com/a/vQqWFsH
+## https://imgur.com/a/vQqWFsH
 
 Plug your USB flash drive into one of the USB ports, depending on the device, you may need to plug it into the computer rather than a hub or a keyboard. Anyways, once done, power on the computer and hold the ⌥ Option key. Keep holding it until you see the boot picker.
 Once you can see the menu, there will be a couple of options.
 
-https://imgur.com/a/4Ve9z1F
+## https://imgur.com/a/4Ve9z1F
 
 If you don’t have any bootable volumes except for the USB you created, there should be two volumes showing up.
 Sometimes, there will be two ones named EFI Boot, you’re going to wanna pick the right one. The left one is the unmodified 10.4.11 volume. 
@@ -68,7 +72,7 @@ If you see verbose mode then you did everything correctly. Booting to the instal
 
 If you reached the installer, good job. Now it’s time to erase the drive and install Mac OS X. 
 
-https://imgur.com/a/bDBn0su
+## https://imgur.com/a/bDBn0su
 
 Select your language, then press Continue.
 
