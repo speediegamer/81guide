@@ -7,6 +7,9 @@
 
 ## Written Guide: https://github.com/speediegamer/the81project/blob/main/Installation%20Guide.pdf 
 
+
+old shitty guide, do not follow.
+you have been warned!
 ## https://imgur.com/a/T3YWVZE 
 
 ## Pt. 1 - Introduction
